@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 사용법 질문
+    url: https://github.com/mouse-ddalkkak/ddalkkak/discussions/categories/q-a
+    about: 설치 · 사용 중 궁금한 점은 Discussions Q&A에 남겨 주세요
+  - name: 보안 취약점
+    url: https://github.com/mouse-ddalkkak/ddalkkak/security/advisories/new
+    about: 공개 이슈 말고 비공개로 신고해 주세요
+  - name: 설치가 안 될 때
+    url: https://github.com/mouse-ddalkkak/ddalkkak#설치
+    about: 자주 나는 설치 오류와 해결 방법
