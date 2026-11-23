@@ -9,4 +9,4 @@
 
 ## 코드
 
-지금은 팀원만 PR을 열 수 있습니다. 이 저장소는 출시 때마다 팀 저장소에서 프로그램 파일을 옮겨 오는 사본이라, 여기서 머지한 변경은 다음 출시 때 사라집니다. 고칠 곳이나 고친 코드는 이슈에 적어 주세요. 팀이 반영해 다음 출시에 넣습니다.
+누구나 PR을 열 수 있습니다. 브랜치 · 커밋 · PR 규칙과 빌드 · 테스트 방법은 각 저장소의 CONTRIBUTING.md에 있습니다(딸깍 본체는 [ddalkkak/CONTRIBUTING.md](https://github.com/mouse-ddalkkak/ddalkkak/blob/main/CONTRIBUTING.md)). PR을 열면 CI가 테스트를 돌리고, 메인테이너가 리뷰한 뒤 머지합니다.
